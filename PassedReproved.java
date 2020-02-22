@@ -1,4 +1,4 @@
-package PracticeVariable;
+package example_repo;
 
 public class PassedReproved {
 
